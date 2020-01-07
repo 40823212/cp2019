@@ -105,7 +105,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823212&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/CF&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180902120523.16">#心得
 
-學到網頁架設和運用dartpad畫圖，拍攝影片上字幕，對於程式更加了解
+重開學到期末學到架設與編輯網站和運用dartpad畫圖，程式的基本語法拍攝影片上字幕，對於程式更加了解。
 
 
 
