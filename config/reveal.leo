@@ -77,6 +77,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 * [亂數分組](https://40823212.github.io/cp2019/reveal/index.html#/3)
 * [重量轉換](https://40823212.github.io/cp2019/reveal/index.html#/4)
 * [國旗](https://40823212.github.io/cp2019/reveal/index.html#/5)
+* [心得](https://40823212.github.io/cp2019/reveal/index.html#/6)
 
 
    &lt;/script&gt;
@@ -103,6 +104,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 <t tx="leo.20180902120523.15"># 溫度轉換
 &lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823212&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/CF&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180902120523.16">#心得
+
 學到網頁架設和運用dartpad畫圖，拍攝影片上字幕，對於程式更加了解
 
 
