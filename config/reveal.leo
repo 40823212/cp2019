@@ -36,9 +36,9 @@
 <v t="leo.20200107211841.1"><vh>國旗</vh></v>
 </v>
 </v>
-</v>
 <v t="leo.20180902120523.13"><vh>心得</vh>
 <v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -82,7 +82,13 @@ Created by [KMOLab](http://lab.kmol.info/)
    &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20180902120523.13">#學到網頁架設和運用dartpad畫圖，拍攝影片上字幕，對於程式更加了解</t>
+<t tx="leo.20180902120523.13">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20180902120523.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -97,7 +103,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 <t tx="leo.20180902120523.15"># 溫度轉換
 &lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823212&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/CF&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180902120523.16">#心得
-
+學到網頁架設和運用dartpad畫圖，拍攝影片上字幕，對於程式更加了解
 
 
 
