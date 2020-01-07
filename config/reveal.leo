@@ -27,10 +27,10 @@
 <v t="leo.20180902120523.15"><vh>溫度轉換</vh></v>
 </v>
 <v t="leo.20200107211717.1"><vh>亂數分組</vh>
-<v t="leo.20200107211156.1"><vh>亂數分組</vh></v>
-</v>
 <v t="leo.20200107211621.1"><vh>重量轉換</vh>
 <v t="leo.20200107211034.1"><vh>重量轉換</vh></v>
+</v>
+<v t="leo.20200107211156.1"><vh>亂數分組</vh></v>
 </v>
 <v t="leo.20200107211751.1"><vh>國旗</vh>
 <v t="leo.20200107211841.1"><vh>國旗</vh></v>
@@ -73,12 +73,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20180902120523.12"># 投影片快捷鍵
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+* [溫度轉換](https://40823212.github.io/cp2019/reveal/index.html#/2)
+* [亂數分組] (https://40823212.github.io/cp2019/reveal/index.html#/3)
+* [重量轉換] (https://40823212.github.io/cp2019/reveal/index.html#/4)
+* [國旗] (https://40823212.github.io/cp2019/reveal/index.html#/5)
+
 
    &lt;/script&gt;
 &lt;/section&gt;
