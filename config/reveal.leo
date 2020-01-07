@@ -80,6 +80,8 @@ Created by [KMOLab](http://lab.kmol.info/)
 * 按 b 或 . 鍵可以切換螢幕黑屏 (black)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
+   &lt;/script&gt;
+&lt;/section&gt;
 </t>
 <t tx="leo.20180902120523.13">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
