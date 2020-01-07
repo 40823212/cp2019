@@ -82,13 +82,7 @@ Created by [KMOLab](http://lab.kmol.info/)
    &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20180902120523.13">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
+<t tx="leo.20180902120523.13">#學到網頁架設和運用dartpad畫圖，拍攝影片上字幕，對於程式更加了解</t>
 <t tx="leo.20180902120523.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
