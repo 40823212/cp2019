@@ -22,7 +22,7 @@
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
-<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh>
+<v t="leo.20180902120523.12"><vh>目錄</vh>
 <v t="leo.20180902120523.14"><vh>溫度轉換</vh>
 <v t="leo.20180902120523.15"><vh>溫度轉換</vh></v>
 </v>
@@ -55,10 +55,10 @@
 ### KMOLab
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+ [個人網站](https://40823212.github.io/cp2019/content/index.html)
 &lt;/small&gt;
+[倉儲](https://github.com/40823212/cp2019/)
 
-[CMSimfly 網誌](./../blog/index.html)
 
 
 </t>
@@ -71,7 +71,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
+<t tx="leo.20180902120523.12"># 目錄
 
 * [溫度轉換](https://40823212.github.io/cp2019/reveal/index.html#/2)
 * [亂數分組](https://40823212.github.io/cp2019/reveal/index.html#/3)
@@ -102,10 +102,13 @@ Created by [KMOLab](http://lab.kmol.info/)
 						
 </t>
 <t tx="leo.20180902120523.15"># 溫度轉換
-&lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823212&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/CF&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823212&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/CF&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+[目錄](https://40823212.github.io/cp2019/reveal/index.html#/1)</t>
 <t tx="leo.20180902120523.16">#心得
 
-重開學到期末學到架設與編輯網站和運用dartpad畫圖，程式的基本語法拍攝影片上字幕，對於程式更加了解。
+從開學到期末學到架設與編輯網站和運用dartpad畫圖，程式的基本語法拍攝影片上字幕，對於程式更加了解。
+
+[目錄](https://40823212.github.io/cp2019/reveal/index.html#/1)
 
 
 
@@ -282,9 +285,11 @@ QLineEdit#editorLabel {
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20200107211034.1">#重量轉換
-&lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823212&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/weight_change&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823212&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/weight_change&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+[目錄](https://40823212.github.io/cp2019/reveal/index.html#/1)</t>
 <t tx="leo.20200107211156.1">#亂數分組
-&lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823212&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/random_grouping&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823212&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/random_grouping&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+[目錄](https://40823212.github.io/cp2019/reveal/index.html#/1)</t>
 <t tx="leo.20200107211621.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -306,6 +311,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200107211841.1">#國旗
-&lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823245&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/flag&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823245&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/flag&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+[目錄](https://40823212.github.io/cp2019/reveal/index.html#/1)</t>
 </tnodes>
 </leo_file>
