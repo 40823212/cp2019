@@ -52,8 +52,6 @@
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## 40823212個人網站
 
-### KMOLab
-
 
 [個人網站](https://40823212.github.io/cp2019/content/index.html)
 
