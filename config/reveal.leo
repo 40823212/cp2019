@@ -54,9 +54,8 @@
 
 ### KMOLab
 
-&lt;small&gt;
- [個人網站](https://40823212.github.io/cp2019/content/index.html)
-&lt;/small&gt;
+
+[個人網站](https://40823212.github.io/cp2019/content/index.html)
 [倉儲](https://github.com/40823212/cp2019/)
 
 
